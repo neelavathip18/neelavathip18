@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**neelavathip18/neelavathip18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi 👋 **I'm Neelavathi P**
+![Banner](assets/banner.png)
 
 Here are some ideas to get you started:
 
